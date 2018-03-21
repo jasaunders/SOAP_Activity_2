@@ -1,4 +1,4 @@
-# Joanne Saunders Week 8 Activitiy 2
+# Joanne Saunders Week 8 Activity 2
 
 This repository will contain the a web application that uses web services framwork to generate java classes from a WSDL file. 
 
